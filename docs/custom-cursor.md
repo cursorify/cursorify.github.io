@@ -47,7 +47,7 @@ export default EmojiCursor
 You can apply custom cursors as follows:
 
 ```tsx
-import { EmojiCursor } from '@cursorify/cursors'
+import { CursorifyProvider, EmojiCursor } from '@cursorify/cursors'
 
 const App = () => {
   return (
