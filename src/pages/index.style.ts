@@ -93,6 +93,7 @@ const StyledWrapper = styled.div`
         font-weight: 300;
         color: ${OpenColor.gray[1]};
         margin-top: 10px;
+        text-align: center;
       }
       .description {
         color: ${OpenColor.gray[5]};
