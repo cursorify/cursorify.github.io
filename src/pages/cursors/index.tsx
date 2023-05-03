@@ -48,7 +48,7 @@ const Cursors: FC = () => {
       <StyledWrapper>
         <Header />
         <main className="common-container clean-list">
-          <CursorCard cursor={<DefaultCursor />} name="DefualtCursor" />
+          <CursorCard cursor={<DefaultCursor />} name="DefaultCursor" />
           <CursorCard cursor={<PhingerCursor />} name="PhingerCursor" />
           <CursorCard cursor={<EmojiCursor />} name="EmojiCursor" />
         </main>
